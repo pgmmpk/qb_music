@@ -25,7 +25,7 @@ navigating to:
 
       http://beaglebone.local:3000
 
-There, create a new JavaScript file and copy content of `music.js` (use "raw" view to copy content without html markup), and paste it as a content
+There, create a new JavaScript file and copy content of `music.js` (use ["raw" view](https://raw.github.com/pgmmpk/qb_music/master/music.js) to copy content without html markup), and paste it as a content
 of this file. Then run it!
 
 ### Running with command line
